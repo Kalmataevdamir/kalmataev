@@ -1,2 +1,3 @@
-# kalmataev
+﻿# kalmataev
 инициализация репозитория
+read
